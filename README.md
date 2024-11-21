@@ -8,7 +8,6 @@ This repository explores the predictive power of textual data from earnings call
 The analysis proceeds in four main steps:
 
 1. Data Loading and Preprocessing:
-
 Load earnings call transcripts and corresponding stock price data.
 Clean and preprocess the textual data, including removing stop words, punctuation, and converting to lowercase.
 Extract relevant features from the transcripts, such as word frequencies and n-grams.
